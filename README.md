@@ -14,7 +14,9 @@
 ### 🔣 `text_utils.py`
 
 ```python
-def is_palindrome(text: str) -> bool
+def reverse_text(text: str) -> str
+
+def count_words(text: str) -> int
 
 # math_tools.py
 
