@@ -1,0 +1,13 @@
+README.md
+setup.py
+mylib/__init__.py
+mylib/data_utils.py
+mylib/math_tools.py
+mylib/text_utils.py
+mylib.egg-info/PKG-INFO
+mylib.egg-info/SOURCES.txt
+mylib.egg-info/dependency_links.txt
+mylib.egg-info/top_level.txt
+tests/test_data_utils.py
+tests/test_math_tools.py
+tests/test_text_utils.py
