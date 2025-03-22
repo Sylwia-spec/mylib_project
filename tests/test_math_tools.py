@@ -1,3 +1,6 @@
+# Link do repozytorium na github.com
+# https://github.com/Sylwia-spec/mylib_project
+
 import unittest
 from mylib.math_tools import add, subtract, factorial
 

@@ -1,3 +1,6 @@
+# Link do repozytorium na github.com
+# https://github.com/Sylwia-spec/mylib_project
+
 def filter_even(numbers: list[int]) -> list[int]:
     return [num for num in numbers if num % 2 == 0]
 

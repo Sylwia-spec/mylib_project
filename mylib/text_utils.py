@@ -1,3 +1,6 @@
+# Link do repozytorium na github.com
+# https://github.com/Sylwia-spec/mylib_project
+
 def count_words(text: str) -> int:
     """
     Zlicza liczbę słów w podanym tekście.

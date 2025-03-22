@@ -1,3 +1,6 @@
+# Link do repozytorium na github.com
+# https://github.com/Sylwia-spec/mylib_project
+
 import unittest
 from mylib.data_utils import filter_even, average_list, count_words
 

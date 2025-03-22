@@ -1,3 +1,6 @@
+# Link do repozytorium na github.com
+# https://github.com/Sylwia-spec/mylib_project
+
 import unittest
 from mylib.text_utils import count_words, reverse_text
 
