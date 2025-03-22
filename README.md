@@ -4,14 +4,14 @@
 
 ---
 
-## 📁 Struktura projektu
+##  Struktura projektu
 
 
 ---
 
-## 🧠 Przykładowe funkcje
+##  Przykładowe funkcje
 
-### 🔣 `text_utils.py`
+###  `text_utils.py`
 
 ```python
 def reverse_text(text: str) -> str
