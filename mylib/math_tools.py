@@ -1,5 +1,13 @@
-def factorial(n):
-    """Zwraca silnię liczby całkowitej n."""
+def add(a: int, b: int) -> int:
+    return a + b
+
+def subtract(a: int, b: int) -> int:
+    return a - b
+
+def factorial(n: int) -> int:
     if n < 0:
-        raise ValueError("Liczba musi być nieujemna")
-    return 1 if n == 0 else n * factorial(n - 1)
+        raise ValueError("Liczba nie może być ujemna")
+    result = 1
+    for i in range(2, n + 1):
+        result *= i
+    return result
